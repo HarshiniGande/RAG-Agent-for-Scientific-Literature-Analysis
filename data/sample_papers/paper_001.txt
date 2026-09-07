@@ -1,0 +1,7 @@
+Title: A Neural Comprehensive Ranker (NCR) for Open-Domain Question Answering
+Authors: Bin Bi; Hao Ma
+Year: 2017
+Journal: arXiv preprint (non-peer-reviewed)
+ArxivID: 1709.10204v2
+
+Abstract: This paper proposes a novel neural machine reading model for open-domain question answering at scale. Existing machine comprehension models typically assume that a short piece of relevant text containing answers is already identified and given to the models, from which the models are designed to extract answers. This assumption, however, is not realistic for building a large-scale open-domain question answering system which requires both deep text understanding and identifying relevant text from corpus simultaneously. In this paper, we introduce Neural Comprehensive Ranker (NCR) that integrates both passage ranking and answer extraction in one single framework. A Q&A system based on this framework allows users to issue an open-domain question without needing to provide a piece of text that must contain the answer. Experiments show that the unified NCR model is able to outperform the states-of-the-art in both retrieval of relevant text and answer extraction.

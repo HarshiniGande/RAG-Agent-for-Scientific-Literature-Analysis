@@ -1,0 +1,7 @@
+Title: Retrieval-Augmented Convolutional Neural Networks for Improved Robustness against Adversarial Examples
+Authors: Jake Zhao; Kyunghyun Cho
+Year: 2018
+Journal: arXiv preprint (non-peer-reviewed)
+ArxivID: 1802.09502v1
+
+Abstract: We propose a retrieval-augmented convolutional network and propose to train it with local mixup, a novel variant of the recently proposed mixup algorithm. The proposed hybrid architecture combining a convolutional network and an off-the-shelf retrieval engine was designed to mitigate the adverse effect of off-manifold adversarial examples, while the proposed local mixup addresses on-manifold ones by explicitly encouraging the classifier to locally behave linearly on the data manifold. Our evaluation of the proposed approach against five readily-available adversarial attacks on three datasets--CIFAR-10, SVHN and ImageNet--demonstrate the improved robustness compared to the vanilla convolutional network.
